@@ -1,0 +1,8 @@
+id_pedido,id_cliente,data_pedido,status,valor,quantidade
+101,1,2026-08-01,APROVADO,250,2
+102,2,2026-08-02,CANCELADO,180,1
+103,1,2026-08-03,APROVADO,420,3
+104,3,2026-08-04,APROVADO,erro,2
+105,4,2026-08-05, aprovado ,300,1
+105,4,2026-08-05, aprovado ,300,1
+106,5,2026-08-06,APROVADO,500,2

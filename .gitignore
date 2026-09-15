@@ -1,3 +1,13 @@
 __pycache__/
+*.pyc
+
 .venv/
 .env
+
+.pytest_cache/
+
+data/processed/*
+!data/processed/.gitkeep
+
+data/rejected/*
+!data/rejected/.gitkeep
